@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blackCover">#FF000000</color>
+    <color name="whiteButtonNumbers">#FFFFFFFF</color>
+    <color name="redButtonBorrar">#FF0000</color>
+    <color name="greenButtonCalcular">#66FF00</color>
+    <color name="blueButtonMostrar">#3399FF</color>
+    <color name="wellowButtonGuardar">#FFFF33</color>
+</resources>
